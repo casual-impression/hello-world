@@ -15,47 +15,37 @@ echo 'Hello there!'</code></pre>
 void main() {
   printf("Hello there!\n");
 }</code></pre>
-<li><b>C++:</b></li>
 
-<pre><code>
-#include &lt;iostream&gt;
+<li><b>C++:</b></li>
+<pre><code>#include &lt;iostream&gt;
 int main() { 
   std::cout << "Hello there!" << std::endl;
-}
-</code></pre>
+}</code></pre>
 
-  <li>
-    <b> Java: </b> <br>
-    <i> class HelloThere { </i> <br>
-    <i> public static void main(String[] args) { </i> <br>
-    <i> System.out.println("Hello there!"); </i> <br>
-    <i> } </i> <br>
-  </li>
+<li><b>Java:</b></li>
+<pre><code>class HelloThere {
+  public static void main(String[] args) {
+    System.out.println("Hello there!");
+  }
+}</code></pre>
   
-  <li>
-    <b> HTML: </b> <br>
-    <i> &lt;p&gt;Hello there!&lt;/p&gt; </i> <br>
-  </li>
+<li><b>HTML:</b></li>
+<pre><code>&lt;p&gt;Hello there!&lt;/p&gt;</code></pre>
+
+<li><b>CoffeeScript:</b></li>
+<pre><code>console.log 'Hello, world!'</code></pre>
   
-  <li>
-    <b> CoffeeScript: </b> <br>
-    <i> console.log 'Hello, world!' </i> <br>
-  </li>
+<li><b>JavaScript:</b></li>
+<pre><code>document.write('Hello there!');</code></pre>
   
-  <li>
-    <b> JavaScript: </b> <br>
-    <i> document.write('Hello there!'); </i> <br>
-  </li>
-  
-  <li>
-    <b> jQuery: </b> <br>
-    <i> $("body").append("Hello there!"); </i> <br>
-  </li>
-  
-  <li>
-    <b> PHP: </b> <br>
-    <i> &lt;? php echo 'Hello there!'; ?&gt; </i> <br>
-  </li>
+<li><b>jQuery:</b></li>
+<pre><code>$("body").append("Hello there!");</code></pre>
+
+<li><b>PHP:</b></li>
+<pre><code>&lt;?php 
+echo 'Hello there!'; 
+?&gt;</code></pre>
+</li>
 </ol
   
 ***

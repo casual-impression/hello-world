@@ -9,8 +9,11 @@ in Code we trust
   <li> 
     <b> Bash: </b> <br>
     <code>
-      #!/usr/bin/env bash </n> <\n> 
-      echo 'Hello there!'
+      <pre>
+        #!/usr/bin/env bash 
+        echo 'Hello there!'
+      </pre>
+      
     </code>
   </li>
   

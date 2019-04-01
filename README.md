@@ -7,14 +7,14 @@ I believe you get to know a person better, if you ask about the languages he spe
 List of "How I would say 'Hello there!' in different languages": <br>
 ***
 1) Bash: <br>
-  #!/usr/bin/env bash
+  #!/usr/bin/env bash <br>
   echo 'Hello there!'
 ***
 2) C: <br>
-  #include <stdio.h>
-  void main() { 
+  #include <stdio.h> <br>
+  void main() { <br>
     printf("Hello there!\n"); 
-    }
+      }
 ***
 3) C++: <br>
   #include <iostream>

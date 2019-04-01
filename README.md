@@ -9,7 +9,7 @@ in Code we trust
   <li> 
     <b> Bash: </b> <br>
     <code>
-      #!/usr/bin/env bash <br> 
+      #!/usr/bin/env bash </n> <\n> 
       echo 'Hello there!'
     </code>
   </li>

@@ -6,15 +6,14 @@ in Code we trust
 <p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how <q cite="https://github.com/about">people learn, share, and work together to build software</q>, it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
 <h3>List of "How I would say 'Hello there!' in different languages": </h3>
 <ol>
-  <li> 
-    <b> Bash: </b> <br>
-    <code>
-      <pre>
-        #!/usr/bin/env bash 
-        echo 'Hello there!'
-      </pre>
-    </code>
-  </li>
+  <li> <b> Bash: </b> </li>
+  <code>
+    <pre>
+      #!/usr/bin/env bash 
+      echo 'Hello there!'
+    </pre>
+  </code>
+  
   
   <li>
     <b> C: </b> <br>

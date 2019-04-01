@@ -1,4 +1,4 @@
-# <h1>hello-world</h1>
+# hello-world
 in Code we trust
 
 <h2>"Hello there!" Isn't that simple, to say this greeting message? </h2>
@@ -8,8 +8,10 @@ in Code we trust
 <ol>
   <li> 
     <b> Bash: </b> <br>
-    <i> #!/usr/bin/env bash </i> <br> 
-    <i> echo 'Hello there!' </i>
+    <code>
+      #!/usr/bin/env bash <br> 
+      echo 'Hello there!'
+    </code>
   </li>
   
   <li>

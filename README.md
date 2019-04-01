@@ -1,19 +1,27 @@
 # hello-world
 in Code we trust
 
-Hello there! Isn't that simple to say this greeting's message? <br>
-Well, it's not as common if you don't know the language of speaking at all! <br>
-I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how "people learn, share, and work together to build software" (https://github.com/about), it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. <br>
-List of "How I would say 'Hello there!' in different languages": <br>
-***
-1) Bash: <br>
-  #!/usr/bin/env bash <br>
-  echo 'Hello there!'
+<p>Hello there! Isn't that simple to say this greeting's message? </p>
+<p>Well, it's not as common if you don't know the language of speaking at all! </p>
+<p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how "people learn, share, and work together to build software" (https://github.com/about), it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
+<h3>List of "How I would say 'Hello there!' in different languages": </h3>
+<ol>
+  <li>
+    <dl>
+      <dt> Bash: </dt>
+      <dd> 
+        #!/usr/bin/env bash <br> 
+        echo 'Hello there!'
+      </dd>
+  </li>
+</ol
+  
+ 
 ***
 2) C: <br>
   #include <stdio.h> <br>
   void main() { <br>
-    printf("Hello there!\n"); 
+    printf("Hello there!\n"); <br>
       }
 ***
 3) C++: <br>

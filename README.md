@@ -15,13 +15,14 @@ echo 'Hello there!'</code></pre>
 void main() {
   printf("Hello there!\n");
 }</code></pre>
-  <li>
-    <b> C++: </b> <br>
-    <i> #include <iostream> </i> <br>
-    <i> int main() { </i> <br>
-    <i> std::cout << "Hello there!" << std::endl; </i> <br>
-    <i>}</i> <br>
-  </li>
+<li><b>C++:</b></li>
+
+<pre><code>
+#include &lt;iostream&gt;
+int main() { 
+  std::cout << "Hello there!" << std::endl;
+}
+</code></pre>
 
   <li>
     <b> Java: </b> <br>

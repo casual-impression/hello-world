@@ -3,7 +3,7 @@ in Code we trust
 
 <h2>"Hello there!" Isn't that simple, to say this greeting message? </h2>
 <p>Well, it's not as common if you don't know the language of speaking at all! </p>
-<p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how <q cite="https://github.com/about">people learn, share, and work together to build software</q>, it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
+<p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how <q>people learn, share, and work together to build software</q> (https://github.com/about), it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
 <h3>List of "How I would say 'Hello there!' in different languages": </h3>
 <ol>
 <li><b>Bash:</b></li>
@@ -33,7 +33,7 @@ int main() {
 <pre><code>&lt;p&gt;Hello there!&lt;/p&gt;</code></pre>
 
 <li><b>CoffeeScript:</b></li>
-<pre><code>console.log 'Hello, world!'</code></pre>
+<pre><code>console.log 'Hello there!'</code></pre>
   
 <li><b>JavaScript:</b></li>
 <pre><code>document.write('Hello there!');</code></pre>
@@ -54,4 +54,4 @@ echo 'Hello there!';
   1. Latitude: more languages I can speak, more versatile tasks I am able to perform.
   2. Depth: it's always good to know how to start a dialogue. But I would also like to understand how to continue it. Delving into different programming area, hope I'll be able to become better I am right now.
 
-Let's help each other!    
+Hello there, reader! Let's help each other!    

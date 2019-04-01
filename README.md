@@ -13,7 +13,6 @@ in Code we trust
         #!/usr/bin/env bash 
         echo 'Hello there!'
       </pre>
-      
     </code>
   </li>
   

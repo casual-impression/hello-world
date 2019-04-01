@@ -7,20 +7,18 @@ in Code we trust
 <h3>List of "How I would say 'Hello there!' in different languages": </h3>
 <ol>
 <li> <b> Bash: </b> </li>
-<code>
 <pre>
+<code>
 #!/usr/bin/env bash 
 echo 'Hello there!'
-</pre>
 </code>
-  
-  <li>
-    <b> C: </b> <br>
+</pre>
+<li><b> C: </b>  </li>
     <i> #include <stdio.h> </i> <br>
     <i> void main() { </i> <br>
     <i> printf("Hello there!\n"); </i> <br>
       <i>}</i> <br>
-  </li>
+ 
   
   <li>
     <b> C++: </b> <br>

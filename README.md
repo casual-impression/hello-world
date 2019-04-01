@@ -22,7 +22,7 @@ int main() { std::cout << "Hello there!" << std::endl; return 0; }
   class HelloThere { public static void main(String[] args) { System.out.println("Hello there!"); } }
 ***
 5) HTML:
-  <code><p>Hello there!</p></code>
+  &lt;p&gt;Hello there!&lt;/p&gt
 ***
 6) CoffeeScript:
   console.log 'Hello, world!'
@@ -34,7 +34,7 @@ int main() { std::cout << "Hello there!" << std::endl; return 0; }
   $("body").append("Hello there!");
 ***
 9) PHP:
-  <? php echo 'Hello there!'; ?>
+  &lt;? php echo 'Hello there!'; ?&gt;
 ***
   There are 9 programming languages I can "speak", in total. Tolerant but not great. 
   And my main purpose of joining this community, at this point, is to improve this result, both ways: 

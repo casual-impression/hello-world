@@ -11,8 +11,7 @@ in Code we trust
 echo 'Hello there!'</code></pre>
 
 <li><b>C:</b></li>
-<pre><code>#include <stdio.h> 
-
+<pre><code>#include &lt;stdio.h&gt; 
 void main() {
   printf("Hello there!\n");
 }</code></pre>

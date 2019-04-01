@@ -1,57 +1,67 @@
 # hello-world
 in Code we trust
 
-<p>Hello there! Isn't that simple to say this greeting's message? </p>
+<h2>"Hello there!" Isn't that simple, to say this greeting message? </h2>
 <p>Well, it's not as common if you don't know the language of speaking at all! </p>
-<p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how "people learn, share, and work together to build software" (https://github.com/about), it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
+<p>I believe you get to know a person better, if you ask about the languages he speaks. It would be nice if people could get to know each other better so they would share their goals, interests, experience. And since this platform is mostly about of how <q cite="https://github.com/about">people learn, share, and work together to build software</q>, it is a good opportunity to start this adventurous journey towards and along with GitHub and its community by sharing the information about the programming languages in which I can say hello at this first day. </p>
 <h3>List of "How I would say 'Hello there!' in different languages": </h3>
 <ol>
+  <li> 
+    <b> Bash: </b> <br>
+    <i> #!/usr/bin/env bash </i> <br> 
+    <i> echo 'Hello there!' </i>
+  </li>
+  
   <li>
-    <dl>
-      <dt> Bash: </dt>
-      <dd> 
-        #!/usr/bin/env bash <br> 
-        echo 'Hello there!'
-      </dd>
+    <b> C: </b> <br>
+    <i> #include <stdio.h> </i> <br>
+    <i> void main() { </i> <br>
+    <i> printf("Hello there!\n"); </i> <br>
+      <i>}</i> <br>
+  </li>
+  
+  <li>
+    <b> C++: </b> <br>
+    <i> #include <iostream> </i> <br>
+    <i> int main() { </i> <br>
+    <i> std::cout << "Hello there!" << std::endl; </i> <br>
+    <i>}</i> <br>
+  </li>
+
+  <li>
+    <b> Java: </b> <br>
+    <i> class HelloThere { </i> <br>
+    <i> public static void main(String[] args) { </i> <br>
+    <i> System.out.println("Hello there!"); </i> <br>
+    <i> } </i> <br>
+  </li>
+  
+  <li>
+    <b> HTML: </b> <br>
+    <i> &lt;p&gt;Hello there!&lt;/p&gt; </i> <br>
+  </li>
+  
+  <li>
+    <b> CoffeeScript: </b> <br>
+    <i> console.log 'Hello, world!' </i> <br>
+  </li>
+  
+  <li>
+    <b> JavaScript: </b> <br>
+    <i> document.write('Hello there!'); </i> <br>
+  </li>
+  
+  <li>
+    <b> jQuery: </b> <br>
+    <i> $("body").append("Hello there!"); </i> <br>
+  </li>
+  
+  <li>
+    <b> PHP: </b> <br>
+    <i> &lt;? php echo 'Hello there!'; ?&gt; </i> <br>
   </li>
 </ol
   
- 
-***
-2) C: <br>
-  #include <stdio.h> <br>
-  void main() { <br>
-    printf("Hello there!\n"); <br>
-      }
-***
-3) C++: <br>
-  #include <iostream>
-  int main() { 
-    std::cout << "Hello there!" << std::endl; 
-    return 0; 
-  }
-***
-4) Java: <br>
-  class HelloThere { 
-    public static void main(String[] args) { 
-      System.out.println("Hello there!"); 
-    }
-  }
-***
-5) HTML: <br>
-  &lt;p&gt;Hello there!&lt;/p&gt;
-***
-6) CoffeeScript: <br>
-  console.log 'Hello, world!'
-***
-7) JavaScript: <br>
-  document.write('Hello there!');
-***
-8) jQuery: <br>
-  $("body").append("Hello there!");
-***
-9) PHP: <br>
-  &lt;? php echo 'Hello there!'; ?&gt;
 ***
   There are 9 programming languages I can "speak", in total. Tolerant but not great. 
   And my main purpose of joining this community, at this point, is to improve this result, both ways: 

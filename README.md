@@ -33,7 +33,7 @@ int main() {
 <pre><code>&lt;p&gt;Hello there!&lt;/p&gt;</code></pre>
 
 <li><b>CoffeeScript:</b></li>
-<pre><code>console.log 'Hello, world!'</code></pre>
+<pre><code>console.log 'Hello there!'</code></pre>
   
 <li><b>JavaScript:</b></li>
 <pre><code>document.write('Hello there!');</code></pre>

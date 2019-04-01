@@ -10,9 +10,7 @@ in Code we trust
 <pre>
 <code>
 #!/usr/bin/env bash 
-echo 'Hello there!'
-</code>
-</pre>
+echo 'Hello there!'</code></pre>
 <li><b> C: </b>  </li>
     <i> #include <stdio.h> </i> <br>
     <i> void main() { </i> <br>

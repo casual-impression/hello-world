@@ -47,10 +47,7 @@ echo 'Hello there!';
 ?&gt;</code></pre>
 
 <li><b>Python:</b></li>
-<pre><code> 
-print('Hello there!') 
-</code></pre>
-</li>
+<pre><code>print('Hello there!') </code></pre>
 </ol
   
 ***

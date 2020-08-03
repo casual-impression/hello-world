@@ -46,6 +46,12 @@ int main() {
 echo 'Hello there!'; 
 ?&gt;</code></pre>
 </li>
+
+<li><b>Python:</b></li>
+<pre><code> 
+print('Hello there!') 
+</code></pre>
+</li>
 </ol
   
 ***

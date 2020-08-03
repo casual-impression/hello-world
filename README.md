@@ -45,7 +45,6 @@ int main() {
 <pre><code>&lt;?php 
 echo 'Hello there!'; 
 ?&gt;</code></pre>
-</li>
 
 <li><b>Python:</b></li>
 <pre><code> 

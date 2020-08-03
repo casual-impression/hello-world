@@ -55,7 +55,7 @@ print('Hello there!')
 </ol
   
 ***
-  There are 9 programming languages I can "speak", in total. Tolerant but not great. 
+  There are <b style="color:green;">10</b> programming languages I can "speak", in total. Tolerant but not great. 
   And my main purpose of joining this community, at this point, is to improve this result, both ways: 
   1. Latitude: more languages I can speak, more versatile tasks I am able to perform.
   2. Depth: it's always good to know how to start a dialogue. But I would also like to understand how to continue it. Delving into different programming area, hope I'll be able to become better I am right now.
